@@ -1,0 +1,17 @@
+@media screen and (max-width: 1200px) {
+  .ilya-block,
+  .petr-block,
+  .katy-block,
+  .kirill-block {
+    float: left;
+  }
+  .name-ilya,
+  .name-kirill,
+  .name-katy,
+  .name-petr {
+    margin-top: 50px;
+    padding-left: 23%;
+    float: none;
+    margin-left: auto;
+  }
+}

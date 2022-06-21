@@ -1,0 +1,88 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+head {
+  border-radius: 50%;
+}
+body {
+  background: linear-gradient(white, blue);
+  font-family: sans-serif;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  text-decoration: underline;
+  text-decoration-color: black;
+}
+img {
+  border-radius: 20px;
+  box-shadow: 0px 10px 10px grey;
+}
+#header {
+  background-image: url("foto/header.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100px;
+  width: 100%;
+  text-align: center;
+  line-height: 100px;
+  color: #adff2f;
+}
+li {
+  font-size: 20px;
+}
+.ilya-block {
+  margin-left: 50px;
+  margin-top: 50px;
+  float: left;
+  display: inline;
+}
+.name-ilya {
+  padding: 50px;
+  background: rgb(0, 255, 247);
+  float: right;
+  margin-left: 100px;
+  margin-top: 10%;
+}
+.kirill-block {
+  margin-left: 50px;
+  margin-top: 50px;
+  float: left;
+  display: inline;
+}
+.name-kirill {
+  padding: 50px;
+  background: rgb(0, 255, 247);
+  float: right;
+  margin-left: 100px;
+  margin-top: 10%;
+}
+.petr-block {
+  margin-left: 50px;
+  margin-top: 50px;
+  float: left;
+  display: inline;
+}
+.name-petr {
+  padding: 50px;
+  background: rgb(0, 255, 247);
+  float: right;
+  margin-left: 100px;
+  margin-top: 25%;
+}
+.katy-block {
+  margin-left: 50px;
+  margin-top: 50px;
+  float: left;
+  display: inline;
+  margin-bottom: 50px;
+}
+.name-katy {
+  padding: 50px;
+  background: rgb(0, 255, 247);
+  float: right;
+  margin-left: 100px;
+  margin-top: 25%;
+}
